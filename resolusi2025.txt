@@ -3,6 +3,7 @@ A. NILAI UJIKOM 100
 2. Belajar koding PHP
 3. Belajar Laravel
 4. Belajar Database
+5. Kursus Online tentang laravel
 
 B. KERJA DI KAMBOJA MALAYSIA
 1. Belajar bahasa Inggris
